@@ -1,1 +1,1 @@
-# knn_part1-2
+# The accuracy for Part 1 (50% training, 50% testing) is 97.8% higher than part 2 due to more training data. The accuracy for Part 2 (30% training, 70% testing) is 96.3% due to less training data but is still reasonably high because the digits dataset is well-structured.
